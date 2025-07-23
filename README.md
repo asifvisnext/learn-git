@@ -1,4 +1,4 @@
-# Git Commands
+# Git Commands in New branch that has been created from development 
 - git clone
 - git status
 - git add
